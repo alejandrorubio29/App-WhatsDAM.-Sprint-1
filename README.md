@@ -1,10 +1,9 @@
-![imagen](https://github.com/alejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/a6b29af0-d2ab-4143-9921-0d14ac9357b6)
-### App-WhatsDAM.-Sprint-1
+# App-WhatsDAM.-Sprint-1
 ## App WhatsDAM. Sprint 1 Alejandro Rubio
 
 L'aplicació es compon de dues pantalles principals:
 
-# 1. Pantalla inicial d'introducció de dades (MainActivity)
+### 1. Pantalla inicial d'introducció de dades (MainActivity)
 
 ![imagen](https://github.com/alejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/1bd8410c-856c-4474-b01f-98569b551e28)
 
@@ -28,7 +27,7 @@ La funcionalitat d'iniciar l'activitat MessagesWindows s'implementa mitjançant 
 
 Si l'usuari no introdueix una IP vàlida i una cadena de text no nul·la com a nom d'usuari, el botó no donarà pas a la següent pantalla. No s'ha implementat cap missatge emergent. 
 
-# 2.. Pantalla de missatges (MessagesWindows)
+### 2.. Pantalla de missatges (MessagesWindows)
 
 La segona pantalla únicament mostra un rectangle de connexió reeixida i presenta en la part inferior un editbox amb un botó d'enviament.
 
