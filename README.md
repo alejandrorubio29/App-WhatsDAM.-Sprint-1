@@ -28,7 +28,7 @@ Si l'usuari no introdueix una IP vàlida i una cadena de text no nul·la com a n
 
 ### 2.. Pantalla de missatges (MessagesWindows)
 
-La segona pantalla únicament mostra un rectangle de connexió reeixida i presenta en la part inferior un editbox amb un botó d'enviament.
+La segona pantalla únicament mostra un rectangle de connexió válida i presenta en la part inferior un editbox amb un botó d'enviament.
 
 ![imagen](https://github.com/alejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/6c639ee7-b422-4a6d-ba4f-2d50ace246d1)
 
