@@ -18,8 +18,7 @@ L' editbox d'adreça del servidor implementa una comprovació d'adreça IP vàli
 
 La implementació d'elements en interfícies s'ha realitzat mitjançant View Binding
 
-<img width="525" alt="Captura de pantalla 2023-11-11 083246" src="https://github.com/al<img width="476" alt="Captura de pantalla 2023-11-11 083240" src="https://github.com/alejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/0ae6cfa9-c464-4591-b42c-c3d5c1f13ae5">
-ejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/8ec1f366-4181-47e9-a4e1-efe2f13a43c6">
+<img width="476" alt="Captura de pantalla 2023-11-11 083240" src="https://github.com/alejandrorubio29/App-WhatsDAM.-Sprint-1/assets/145864071/0ae6cfa9-c464-4591-b42c-c3d5c1f13ae5">
 
 La funcionalitat d'iniciar l'activitat MessagesWindows s'implementa mitjançant un intent associat a un botó. És important passar les variables necessàries a aquesta activitat (i recollir-les des de la nova activitat, com es veurà més a baix)
 
